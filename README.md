@@ -1,4 +1,4 @@
-# Ark Core - JSON-RPC
+# Qredit Core - JSON-RPC
 
 <p align="center">
     <img src="../../banner.png?sanitize=true" />
@@ -6,7 +6,7 @@
 
 ## Documentation
 
-You can find installation instructions and detailed instructions on how to use this package at the [dedicated documentation site](https://docs.ark.io/guidebook/core/plugins/core-json-rpc.html).
+You can find installation instructions and detailed instructions on how to use this package at the [dedicated documentation site](https://qredit.io/qredit-wiki/category/api-reference/json-rpc/).
 
 ## Security
 
